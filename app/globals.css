@@ -1,0 +1,52 @@
+body {
+  color: #ffffff;
+  background-color: #121212;
+}
+
+.lead {
+  opacity: 70%;
+}
+
+.navbar {
+  background-color: #1E1E1E;
+}
+
+
+.btn-primary {
+  background-color: #802805;
+  border-color: #F07803 !important;
+  color: #F07803;
+}
+
+.btn-primary:hover {
+  background-color: #F07803;
+  border-color: #F07803 !important;
+  color: #802805;
+}
+
+.btn-primary:active {
+  background-color: #F07803 !important;
+  border-color: #F07803 !important;
+  color: #802805;
+}
+
+.btn-outline-secondary {
+  border-color: #802805 !important;
+  color: #F07803 !important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #F07803 !important;
+  border-color: #802805 !important;
+  color: #802805 !important;
+}
+
+.btn-outline-secondary:active {
+  background-color: #F07803 !important;
+  border-color: #802805 !important;
+  color: #802805 !important;
+}
+
+.border {
+  border-color: #802805 !important;
+}
